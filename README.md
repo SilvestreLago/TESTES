@@ -1,2 +1,2 @@
 # TESTES
-<a href="../index.html">Página inicial.</a>
+<a href="index.html">Página inicial.</a>
